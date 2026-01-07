@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Projects</h2>
 
-- [Virtualized Active Directory Home Lab](https://github.com/majamal014/LABURL)
+- [Virtualized Active Directory Home Lab](https://github.com/majamal014/active-directory-home-lab)
 
 
 <h2>📜 Certifications</h2>
