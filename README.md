@@ -8,7 +8,7 @@
 <h2>📜 Certifications</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/04b42d8f-2869-4c65-8b95-1a129fbc9895/public_url)
-- [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/) | Expected Feb 2026
+- Microsoft Certified: Azure Fundamentals (AZ-900) | Expected Feb 2026
 
   
 <!--
