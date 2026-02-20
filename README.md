@@ -8,7 +8,7 @@
 <h2>📜 Certifications</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/04b42d8f-2869-4c65-8b95-1a129fbc9895/public_url)
-- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fcredentials%2Fshare%2Fen-us%2Fmahmudjamal%2FF793D6FD79D3CB35%3FsharingId)
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/mahmudjamal/credentials/f793d6fd79d3cb35)
   
 <!--
 **majamal014/majamal014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
