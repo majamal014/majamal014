@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 IT Projects</h2>
 
+- [Modernizing Legacy Active Directory via Entra ID and Intune](https://github.com/majamal014/modernizing-legacy-AD)
 - [Virtualized Active Directory Home Lab](https://github.com/majamal014/active-directory-home-lab)
 
 
